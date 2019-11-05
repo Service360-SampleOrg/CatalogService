@@ -1,0 +1,7 @@
+' CatalogService
+@startuml
+
+node CatalogService {
+}
+
+@enduml
