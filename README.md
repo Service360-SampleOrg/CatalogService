@@ -2,9 +2,9 @@
 
 Product data storage. Provides API for accessing shop product data.
 
-Owner|Tier|Status|Landscape|Contexts
----|---|---|---|---
-CheckoutTeam|Tier1|Prod|Web|Catalog
+Owner|Tier|Status|Contexts
+---|---|---|---
+CheckoutTeam|Tier1|Prod|Web,Catalog
 
 ##### Environments
 
